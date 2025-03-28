@@ -38,6 +38,6 @@ A platform for renting traditional clothing. Users can browse cultural outfits a
 ### 🌍 Let's Connect
 
 - 📎 [Portfolio]
-- 💼 [LinkedIn](https://www.linkedin.com/in/aliya-memah-ba11a3225/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/aliya-memah-ba11a3225/)
 
 Thanks for visiting! 👩‍💻
