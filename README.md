@@ -23,18 +23,6 @@ I'm a junior full-stack web developer who enjoys building simple, useful, and ac
 
 ---
 
-### 🚀 Projects
-
-#### 🔖 LabelWise
-A web app that allows users to scan food products and check if they match their dietary preferences (e.g. vegetarian, vegan).  
-🔗 [View on GitHub](https://github.com/aliyammh/labelwise)
-
-#### 👘 Heritage Hues
-A platform for renting traditional clothing. Users can browse cultural outfits and book rentals.  
-🔗 [View on GitHub](https://github.com/aliyammh/heritage_hues )
-
----
-
 ### 🌍 Let's Connect
 
 - 📎 [Portfolio]
