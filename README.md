@@ -1,8 +1,8 @@
 ## Hello! 👋 I'm Aliya
 
 I'm a junior full-stack web developer who enjoys building simple, useful, and accessible digital solutions.
----
 
+---
 ### 🔧 Tech I Use
 
 #### Frontend
