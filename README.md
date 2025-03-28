@@ -31,8 +31,8 @@ A web app that allows users to scan food products and check if they match their 
 🔗 [View on GitHub](https://github.com/aliyammh/labelwise)
 
 #### 👘 Heritage Hues
-A platform for renting and sharing traditional clothing. Users can browse cultural outfits and book rentals.  
-🔗 [View on GitHub](https://github.com/aliyammh/Heritagehues)
+A platform for renting traditional clothing. Users can browse cultural outfits and book rentals.  
+🔗 [View on GitHub](https://github.com/aliyammh/heritage_hues )
 
 ---
 
