@@ -1,7 +1,6 @@
 ## Hello! 👋 I'm Aliya
 
-A junior full-stack web developer who enjoys building clean, simple, and purposeful web applications.  
-
+I'm a junior full-stack web developer who enjoys building simple, useful, and accessible digital solutions.
 ---
 
 ### 🔧 Tech I Use
